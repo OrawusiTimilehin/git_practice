@@ -1,3 +1,7 @@
 This is the first change i am making 
 
-2nd Change
+2nd change
+
+Changing the third commit to a new one in other to learn how to redo a commit 
+
+Testing amend
